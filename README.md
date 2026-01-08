@@ -16,23 +16,6 @@ This repository is intended for **educational and professional demonstration pur
 
 ---
 
-## Why This Project Matters (CTI Context)
-
-Modern CTI work is less about manual lookup and more about:
-
-* Automation
-* Data normalization
-* API integration
-* Repeatable pipelines
-
-This project mirrors common analyst workflows such as:
-
-* Monitoring open sources for emerging threats
-* Extracting IPs, domains, and hashes from reports or forums
-* Enriching IOCs with reputation and context
-* Preparing data for further analysis or ingestion into downstream systems
-
----
 
 ## Features
 
