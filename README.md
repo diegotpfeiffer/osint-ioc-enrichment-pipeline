@@ -107,29 +107,6 @@ The tool produces structured JSON output containing:
 
 ---
 
-## Ethical & Legal Notice
-
-* This tool performs **read-only OSINT collection**
-* Only public, openly accessible sources should be used
-* Users are responsible for complying with website Terms of Service
-* No credentials, private data, or illegal content are accessed or stored
-
----
-
-## Limitations & Future Work
-
-This project is intentionally scoped for clarity and safety.
-
-Potential extensions include:
-
-* Additional enrichment providers (VirusTotal, OTX, GreyNoise)
-* SQLite or Elasticsearch storage
-* Scheduled execution
-* Darknet metadata monitoring (read-only)
-* IOC confidence scoring
-
----
-
 ## Author
 
 Created by Diego Pfeiffer as a demonstration of OSINT automation and CTI-oriented Python development.
